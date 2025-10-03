@@ -1,0 +1,1 @@
+# OpenSearch Trending Queries CDK Package

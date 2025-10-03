@@ -1,0 +1,5 @@
+aws-cdk-lib==2.110.1
+constructs>=10.0.0,<11.0.0
+boto3>=1.34.0
+aws-cdk.aws-glue-alpha>=2.110.1a0
+aws-xray-sdk>=2.12.0
